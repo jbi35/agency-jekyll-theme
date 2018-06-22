@@ -15,9 +15,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
 
 - name: Kei Müller
@@ -25,8 +23,6 @@ people:
   position: Lead Marketer
   social:
     - title: twitter
-      url: #
-    - title: facebook
       url: #
     - title: linkedin
       url: #
@@ -37,9 +33,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: linkedin
       url: #
       
 - name: Lena Yoshihara
@@ -48,9 +42,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: linkedin
       url: #
       
 - name: Wolfgang Wall
@@ -59,9 +51,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: linkedin
       url: #
       
 - name: Karl Wichmann
@@ -70,21 +60,15 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: http://twitter.com/jekyllrb
   - title: github
     url: http://github.com/jekyll
 
