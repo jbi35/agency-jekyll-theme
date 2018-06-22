@@ -2,14 +2,14 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
+title: project_B
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jonas Biehler
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Kei Müller
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Peter
   pic: 3
   position: Lead Developer
   social:
@@ -42,8 +42,8 @@ people:
     - title: google-plus
       url: #
       
-- name: Diana Petersen
-  pic: 3
+- name: Lena Yoshihara
+  pic: 4
   position: Lead Developer
   social:
     - title: twitter
@@ -53,8 +53,8 @@ people:
     - title: google-plus
       url: #
       
-- name: Diana Petersen
-  pic: 3
+- name: Wolfgang Wall
+  pic: 5
   position: Lead Developer
   social:
     - title: twitter
@@ -64,8 +64,8 @@ people:
     - title: google-plus
       url: #
       
-- name: Diana Petersen
-  pic: 3
+- name: Karl Wichmann
+  pic: 6
   position: Lead Developer
   social:
     - title: twitter
