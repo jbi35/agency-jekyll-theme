@@ -2,7 +2,7 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: project_B
+title: ebenbuild
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -16,7 +16,7 @@ people:
     - title: twitter
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jonas-biehler/
 
 - name: Kei Müller
   pic: 2
@@ -25,7 +25,7 @@ people:
     - title: twitter
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/kei-wieland-m%C3%BCller-913a96a8/
 
 - name: Peter
   pic: 3
@@ -61,7 +61,7 @@ people:
     - title: twitter
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/karl-robert-wichmann-375300141/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
